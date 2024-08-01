@@ -1,9 +1,6 @@
 # base256_rs
 Base 256 encoder/decoder for Rust
 
-# base256_lib
-Base 256 encoder/decoder
-
 ## Installation
 
 ```shell
