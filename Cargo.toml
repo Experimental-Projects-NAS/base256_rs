@@ -1,0 +1,13 @@
+[package]
+name = "base256_lib"
+version = "1.0.0"
+authors = ["Son"]
+description = "Base256 encoder/decoder"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/Experimental-Projects-NAS/base256_rs"
+repository = "https://github.com/Experimental-Projects-NAS/base256_rs"
+keywords = ["base256"]
+edition = "2021"
+readme = "README.md"
+
+[dependencies]
